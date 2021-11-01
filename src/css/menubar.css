@@ -1,0 +1,30 @@
+body{
+    width: 1000px;
+    height: 1200px;
+    background-color: royalblue;
+}
+.para1{
+    letter-spacing: 0px;
+    text-align: left;
+    font-variant: small-caps;
+}
+a:visited{
+    color: sandybrown;
+}
+a:link{
+    color: green;
+}
+a:hover{
+    color: black;
+}
+a:active{
+    color: brown;
+}
+ul li{
+    background-color: greenyellow;
+    list-style-type: none;
+    display: inline;
+    padding-left: 50px;
+    text-decoration: none;
+
+}
